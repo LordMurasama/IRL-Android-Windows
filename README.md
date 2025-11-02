@@ -10,6 +10,7 @@ This Guide describes a **Low Cost and Easy** Solution for
 > [!NOTE]  
 > There are completely "free" methods, but they need more technical expertise and if wrongly configured could be a security risk for your Home PC.
 > With this Method you don't open up purposely any holes in your Security. *(No fixed IP | No Port Forwarding | No Firewall Changes)*
+> Additional details here: https://techdump.murasama.net/2024/06/30/naginreeds-moblin-to-twitch-guide/#security-and-privacy
 
 ---
 ## Map
