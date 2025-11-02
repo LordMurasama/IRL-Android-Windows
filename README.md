@@ -1,5 +1,5 @@
 # IRL-Android-Windows
-Belabox Cloud Setup for Android and Windows OBS Translated
+Belabox Cloud Setup for Android and Windows OBS (For Translation)
 
 # General Info
 This Guide describes a **Low Cost and Easy** Solution for
