@@ -1,4 +1,4 @@
-# IRL-Android-Windows
+# IRL-Android-Windows (forked from: https://github.com/Naginreed/irl-cae_Android-Win)
 Belabox Cloud Setup for Android and Windows OBS (For Translation)
 
 # General Info
