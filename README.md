@@ -106,13 +106,13 @@ This Guide describes a **Low Cost and Easy** Solution for
 <img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/1a04874c-6158-4af1-acbb-1825b638acd4" height="600">
 <img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/8bab03e7-7b0d-4ad8-a96a-3e4ec995a504" height="600">
 
-3.i - We wanna add Alerts to IRL Pro. To do this we go to into our Alerts Dashboard via Browser  
+3.i - We want to add Alerts to IRLPro. To do this we go to into our Alerts Dashboard via Browser  
  - [Streamlabs](https://streamlabs.com/dashboard#/alertbox) and copy the Widget URL
 
 <img src="https://github.com/Naginreed/irl-cae-setup/assets/71943093/255e3ef7-cbd5-4cfa-84a8-17d68c78ccb6" height="600">
 <img src="https://github.com/Naginreed/irl-cae-setup/assets/71943093/82365cc6-ade2-458f-b583-ccad4b0b62f1" height="600">
 
-3.j - Head back to IRL Pro and add a **New web overlay**  
+3.j - Head back to IRLPro and add a **New web overlay**  
  - **Name:** Alerts  
  - **URL:** Paste the one you copied from Streamlabs Alertbox  
  - **Width:** 600
@@ -320,7 +320,7 @@ Either a Mobile WiFi Router or a Second Phone with Mobile Hotspot active.
 
 If for whatever reason the Relay or Home PC is not working you can easily switch back to direct Streaming in the IRL Pro App.  
 
-8.a - Got to **Settings** > **Connections** and Switch **Belabox off** and **Twitch on**  
+8.a - Go to **Settings** > **Connections** and Switch **Belabox off** and **Twitch on**  
 <details>
 <img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/452ea3a0-76e7-4cf1-8f16-4e9f531f2923" height="600">
 <img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/45b2d58a-e62e-426f-bc2c-e0af3e1d582b" height="600"> 
