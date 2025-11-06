@@ -1,6 +1,6 @@
 # IRL-Android-Windows (forked from: https://github.com/Naginreed/irl-cae_Android-Win)
 > Belabox Cloud Setup for Android and Windows OBS (For Translation)
-> Japanese Translation Branch: (https://github.com/LordMurasama/IRL-Android-Windows/tree/LordMurasama-patch-1)
+> Japanese Translation Branch: (https://github.com/LordMurasama/IRL-Android-Windows/edit/IRL-Android-Windows-JP/)
 
 # General Info
 This Guide describes a **Low Cost and Easy** Solution for
@@ -62,7 +62,7 @@ This Guide describes a **Low Cost and Easy** Solution for
 
 <img src="https://github.com/Naginreed/irl-cae-setup/assets/71943093/8425c1a1-add3-40d1-8082-b03312429539" height="600">
 
-2.f - Scroll down until you see **IRLPro Settings** and tap the **Add automatically to IRL** Button to automatically add the right Info in IRL Pro.  
+2.f - Scroll down until you see **IRLPro Settings** and tap the **Add automatically to IRL** Button to automatically add the correct Info in IRLPro.  
 
 <img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/70b33a1d-eea9-4590-86b7-2df757d14fc0" height="600">
 
@@ -237,8 +237,8 @@ Any normal PC or Laptop can be used (with hardware NVENC encoder/decoder for bet
 
 4.2.g - open the Open the **[Belabox Cloud](https://cloud.belabox.net/#relays)** Page and go to **SRT(LA) relays**  
  - Scroll down to **NOALBSv2 configuration**
- - replace *REPLACE_BELLABOX_URL* with the URL from the Belabox Page
- - replace *REPLACE_BELLABOX_INGEST_KEY* with the last Part of the URL
+ - replace *REPLACE_BELABOX_URL* with the URL from the Belabox Page
+ - replace *REPLACE_BELABOX_INGEST_KEY* with the last Part of the URL
 
 <img src="https://github.com/Naginreed/irl-cae-setup/assets/71943093/fe194e73-c223-4327-9680-af1b570869b1" height="350">
 
