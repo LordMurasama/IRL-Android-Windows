@@ -9,8 +9,8 @@ This Guide describes a **Low Cost and Easy** Solution for
 - **Windows** as Home PC
 
 > [!NOTE]  
-> There are completely "free" methods, but they need more technical expertise and if wrongly configured could be a security risk for your Home PC.
-> With this Method you don't open up purposely any holes in your Security. *(No fixed IP | No Port Forwarding | No Firewall Changes)*.
+> There are completely "free" methods, but they require more technical expertise and if wrongly configured, could be a security risk for your Home PC.
+> With this method, you don't purposely open any holes in your network and system security. *(No fixed IP | No Port Forwarding | No Firewall Changes)*.
 > Additional security/privacy details here: (https://techdump.murasama.net/2024/06/30/naginreeds-moblin-to-twitch-guide/#security-and-privacy)
 
 ---
@@ -23,7 +23,7 @@ This Guide describes a **Low Cost and Easy** Solution for
 # 1 - Streaming Phone  
 
 > [!NOTE]   
-> If you have multiple phones, use the strongest/newest one as Streaming Phone
+> If you have multiple phones, please use the newest/best performing one as the Streaming Phone
 
 1.a - Install the **[IRLPro](https://play.google.com/store/apps/details?id=app.irlpro.android)** from the Google Play Store
 
@@ -48,7 +48,7 @@ This Guide describes a **Low Cost and Easy** Solution for
  - Fill out your Billing Info and setup your Payment Info *(Only Credit Card or Paypal supported)*
  - Alternatively you can also let your Viewers buy [Vouchers](https://shop.belabox.net/product/belabox-cloud-voucher) for multiple Months.
 
-2.c - Once you either sponsored or have a voucher open the [Belabox Cloud](https://cloud.belabox.net) Page and
+2.c - Once you either sponsored or have a voucher, open the [Belabox Cloud](https://cloud.belabox.net) Page and
  - Login/Authorize with your Github Account  
 
 <img src="https://github.com/Naginreed/irl-cae-setup/assets/71943093/5385a7b6-e1c4-42ac-a5a1-729cf53dc732" height="600">
@@ -108,27 +108,27 @@ This Guide describes a **Low Cost and Easy** Solution for
 <img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/1a04874c-6158-4af1-acbb-1825b638acd4" height="600">
 <img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/8bab03e7-7b0d-4ad8-a96a-3e4ec995a504" height="600">
 
-3.i - We want to add Alerts to IRLPro. To do this we go to into our Alerts Dashboard via Browser  
+3.i - We want to add Alerts to IRLPro. To do this we go into our Alerts Dashboard via Browser  
  - [Streamlabs](https://streamlabs.com/dashboard#/alertbox) and copy the Widget URL
 
 <img src="https://github.com/Naginreed/irl-cae-setup/assets/71943093/255e3ef7-cbd5-4cfa-84a8-17d68c78ccb6" height="600">
 <img src="https://github.com/Naginreed/irl-cae-setup/assets/71943093/82365cc6-ade2-458f-b583-ccad4b0b62f1" height="600">
 
-3.j - Head back to IRLPro and add a **New web overlay**  
+3.j - Switch back to IRLPro and add a **New web overlay**  
  - **Name:** Alerts  
  - **URL:** Paste the one you copied from Streamlabs Alertbox  
  - **Width:** 600
  - **Height:** 400  
-*(you change here later if the Alerts are wrong size or position)*  
+*( change these later if the Alerts are the wrong size or position)*  
 
 <img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/c793f03a-6526-4cf1-8ca6-b10b15570d00" height="600">
 <img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/436e5036-a8f9-44e2-9fb6-c7e5af1d3e06" height="600">
 
-3.k - Once you saved, check that Alerts is turned on.
+3.k - Once saved, check that Alerts is turned on.
 
 <img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/6bde279b-c60f-4e59-a8a6-90edfbf6685d" height="600">
 
-3.l - Go back to the **Main View** and **check** that **Chat** is loading and Test that **Alerts** are **working** 
+3.l - Go back to the **Main View** and **check** that **Chat** is loading and test that **Alerts** are **working** 
  - Streamlabs *(Test-Alerts are available in the [Alertbox](https://streamlabs.com/dashboard#/alertbox))*  
 
 <img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/80417b7c-d629-44ac-b3ad-013e5eaf0842" width="600">
@@ -141,7 +141,7 @@ Any normal PC or Laptop can be used (with hardware NVENC encoder/decoder for bet
 
 ## 4.1 OBS
 > [!NOTE]  
-> This is the Programm that gets the Stream from the Relay Server and converts it back to old RTMP/h.264 Standards and streams it directly to Twitch. Here you have a lot of Options to set Videos, Text, Music to engage/entertain your viewers while you reconnect*
+> This is the Program that gets the Stream from the Relay Server and converts it back to old RTMP/h.264 Standards and streams it directly to Twitch. Here you have a lot of Options to set Videos, Text, Music to engage/entertain your viewers while you reconnect
 
 4.1.a - **Download [OBS Studio](https://obsproject.com/download)** for your System  
 4.1.b - **Install OBS** Studio and **Launch** it.  
@@ -218,7 +218,7 @@ Any normal PC or Laptop can be used (with hardware NVENC encoder/decoder for bet
  - config.json
  - noalbs
 
-4.2.c - For NOALBS to respond to our Chat commands we need to give access to a Twitch Account (it is suggested to create an alt Twitch account and use that for the following; you can enable the creation of additional accounts from your Twitch Settings under Security and Privacy and toggling on "Enable additional account creation".  Make sure to /mod this account. Once you are logged in with your preferred Account in Twitch, click on this **[Link](https://b3ck.com/twitch/oauth)**, then hit **Authorize with Twitch** and copy the whole Code from the website
+4.2.c - For NOALBS to respond to our Chat commands, we need to give access to a Twitch Account (it is suggested to create an alt Twitch account and use that for the following; you can enable the creation of additional accounts from your Twitch Settings under Security and Privacy and toggling on "Enable additional account creation".  Make sure to /mod this account. Once you are logged in with your preferred Account in Twitch, click on this **[Link](https://b3ck.com/twitch/oauth)**, then hit **Authorize with Twitch** and copy the whole Code from the website
 
 <img src="https://github.com/user-attachments/assets/d668b651-5f7e-45b3-9e1a-e26eb5174b19" height="300">
 <img src="https://github.com/user-attachments/assets/44ca3f4b-4ea8-47a8-868e-180fc5c62ba7" height="130">
@@ -261,7 +261,7 @@ Any normal PC or Laptop can be used (with hardware NVENC encoder/decoder for bet
 ---
 # 5 - Make OBS pretty
 We are finished with the basic Setup, but the Scenes are basic placeholders.
-Following is an Explanation on what Scene is used for what and what People normally put in. 
+The following is an Explanation on what Scene is used for, and what People normally place in them. 
 > [!NOTE]  
 > Following are just recommendations. Feel free to design however you want.
 
@@ -282,24 +282,24 @@ Following is an Explanation on what Scene is used for what and what People norma
 - When the connection to Phone is lost completely or you end the livestream in IRLPro on purpose *(for privacy)*
 - old VODs or Clips are often used (For Clips, the suggested recommendation is a Folder named Clips and adding a VLC Media Source *requires [VLC Media Player](https://www.videolan.org/vlc/)*) - make sure to download and install the 64-bit version of VLC by manually selecting the download from their site.
 - simple Text "Be right back"
-- Can be switched to when you go to restroom or have private conversations
+- Can be switched to when you go to the restroom or have private conversations
   
 **End**
-- Can be activated by writing !end in Twitch-Chat
+- Can be activated by typing !end in Twitch-Chat
 - Similar to Starting Video+Music
 - Simple Text "Ending Stream"
 
 ---
 # 6 - Normal Operation 
 > [!NOTE]  
-> Before **every** IRL-Stream you need to do the following
+> Before **every** IRL-Stream, you need to do the following
 
 6.a - **Start** your **PC** at Home an make sure it has a Internet Connection and that the PC doesn't turn off automatically  
 6.b - **Start OBS & NOALBS** on your PC  
 6.c - **Go outside** to where you want to start your IRL-Stream  
 6.d - Enter `!start` in **Twitch-Chat** to start Stream to Twitch  
 6.e - **Go Live in IRLPro** -> after a few seconds you are switched to **Live-Scene**  
-6.f - If you stop or lose connections on the Phone -> after a few seconds you are switched to **Brb-Scene**  
+6.f - If you stop or lose connection on the Phone -> after a few seconds you are switched to **Brb-Scene**  
 6.g - As soon as connection from Phone to Internet is restored -> after a few seconds you are switched back to **Live-Scene**  
 6.h - End/Start the Livestream manually in IRLPro to switch between `!brb` and `!live`  
 6.i - **Stop the Stream** automatically if you raid someone or with Chat command `!stop`  
@@ -320,7 +320,7 @@ Either a Mobile WiFi Router or a Second Phone with Mobile Hotspot active.
 ---
 # 8 - Stream directly to twitch  
 
-If for whatever reason the Relay or Home PC is not working you can easily switch back to direct Streaming in the IRL Pro App.  
+If for whatever reason the Relay or Home PC is not working, you can easily switch back to direct Streaming in the IRLPro App.  
 
 8.a - Go to **Settings** > **Connections** and Switch **Belabox off** and **Twitch on**  
 <details>
