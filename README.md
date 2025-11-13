@@ -11,7 +11,7 @@
 > [!NOTE]  
 > 完全に「無料」の方法も存在しますが、より高度な技術的知識が必要であり、設定を誤るとホームPCのセキュリティリスクとなる可能性があります。  
 > この方法では、ネットワークやシステムセキュリティに意図的に穴を開けることはありません。*(固定IP不要 | ポート転送不要 | ファイアウォール変更不要)*。  
-> 追加のセキュリティ/プライバシー詳細はこちら： (https://techdump.murasama.net/2024/06/30/naginreeds-moblin-to-twitch-guide/#security-and-privacy)
+> 追加のセキュリティ/プライバシー詳細はこちら： (https://techdump.murasama.net/2024/06/30/belabox-cloud-guides/#security-and-privacy)
 
 ---
 ## Map
