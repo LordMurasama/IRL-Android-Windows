@@ -11,7 +11,7 @@ This Guide describes a **Low Cost and Easy** Solution for
 > [!NOTE]  
 > There are completely "free" methods, but they require more technical expertise and if wrongly configured, could be a security risk for your Home PC.
 > With this method, you don't purposely open any holes in your network and system security. *(No fixed IP | No Port Forwarding | No Firewall Changes)*.
-> Additional security/privacy details here: (https://techdump.murasama.net/2024/06/30/naginreeds-moblin-to-twitch-guide/#security-and-privacy)
+> Additional security/privacy details here: (https://techdump.murasama.net/2024/06/30/belabox-cloud-guides/#security-and-privacy)
 
 ---
 ## Map
