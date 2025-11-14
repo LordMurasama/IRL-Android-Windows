@@ -1,6 +1,6 @@
 # IRL-Android-Windows (未翻訳: https://github.com/LordMurasama/IRL-Android-Windows/)
 > Belabox Cloud Setup for Android and Windows OBS (翻訳用)
-> Japanese Translation Branch: (https://techdump.murasama.net/belabox-cloud-guides-overview-jp/)
+> Japanese Translation Branch (the following is superceded by): (https://techdump.murasama.net/belabox-cloud-guides-overview-jp/)
 
 # General Info
 このガイドでは、以下の目的のための**低コストで簡単な**解決策を説明します：
