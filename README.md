@@ -1,6 +1,6 @@
 # IRL-Android-Windows (forked from: https://github.com/Naginreed/irl-cae_Android-Win)
 > Belabox Cloud Setup for Android and Windows OBS (For Translation)
-> Japanese Translation Branch: (https://github.com/LordMurasama/IRL-Android-Windows/tree/IRL-Android-Windows-JP)
+> Japanese Translation Branch: (https://techdump.murasama.net/belabox-cloud-guides-overview-jp/)
 
 # General Info
 This Guide describes a **Low Cost and Easy** Solution for
@@ -11,7 +11,7 @@ This Guide describes a **Low Cost and Easy** Solution for
 > [!NOTE]  
 > There are completely "free" methods, but they require more technical expertise and if wrongly configured, could be a security risk for your Home PC.
 > With this method, you don't purposely open any holes in your network and system security. *(No fixed IP | No Port Forwarding | No Firewall Changes)*.
-> Additional security/privacy details here: (https://techdump.murasama.net/2024/06/30/belabox-cloud-guides/#security-and-privacy)
+> Additional security/privacy details here: (https://techdump.murasama.net/belabox-cloud-guides-overview-en/#security-and-privacy)
 
 ---
 ## Map
