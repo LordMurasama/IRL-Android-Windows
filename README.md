@@ -1,6 +1,6 @@
 # IRL-Android-Windows (未翻訳: https://github.com/LordMurasama/IRL-Android-Windows/)
 > Belabox Cloud Setup for Android and Windows OBS (翻訳用)
-> Japanese Translation Branch: (https://github.com/LordMurasama/IRL-Android-Windows/tree/IRL-Android-Windows-JP)
+> Japanese Translation Branch: (https://techdump.murasama.net/belabox-cloud-guides-overview-jp/)
 
 # General Info
 このガイドでは、以下の目的のための**低コストで簡単な**解決策を説明します：
@@ -11,7 +11,7 @@
 > [!NOTE]  
 > 完全に「無料」の方法も存在しますが、より高度な技術的知識が必要であり、設定を誤るとホームPCのセキュリティリスクとなる可能性があります。  
 > この方法では、ネットワークやシステムセキュリティに意図的に穴を開けることはありません。*(固定IP不要 | ポート転送不要 | ファイアウォール変更不要)*。  
-> 追加のセキュリティ/プライバシー詳細はこちら： (https://techdump.murasama.net/2024/06/30/belabox-cloud-guides/#security-and-privacy)
+> 追加のセキュリティ/プライバシー詳細はこちら：(https://techdump.murasama.net/belabox-cloud-guides-overview-jp/#security-and-privacy)
 
 ---
 ## Map
